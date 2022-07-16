@@ -1,1 +1,2 @@
-You need to install pyautogui."Pip install pyautogui"
+You need to install pyautogui.
+"Pip install pyautogui"
